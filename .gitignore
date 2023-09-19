@@ -1,0 +1,7 @@
+.dist/
+MaksNazarets_venv/
+my_package/.dist/
+my_package/.vscode/
+my_package/__pycache__/
+ЛР3.docx
+~$ЛР3.docx
